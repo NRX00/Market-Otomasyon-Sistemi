@@ -1,0 +1,152 @@
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.exe.config
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.exe
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.pdb
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.AssemblyReference.cache
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form1.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Properties.Resources.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.GenerateResource.cache
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.CoreCompileInputs.cache
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.CopyComplete
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.exe
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.pdb
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\de-AT\market otomasyonu sistemi.resources.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form1.de-AT.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\de-AT\market otomasyonu sistemi.resources.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form2.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form3.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form4.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Kategori.resources
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\MySqlConnector.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Buffers.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Memory.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\MySqlConnector.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Buffers.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Memory.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyup5\Desktop\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Selling.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.exe.config
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.exe
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\market otomasyonu sistemi.pdb
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\de-AT\market otomasyonu sistemi.resources.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\MySqlConnector.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Buffers.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Memory.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\MySqlConnector.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Buffers.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Memory.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.AssemblyReference.cache
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form1.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form2.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form3.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form4.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Kategori.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Properties.Resources.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Selling.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market_otomasyonu_sistemi.Form1.de-AT.resources
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.GenerateResource.cache
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.CoreCompileInputs.cache
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\de-AT\market otomasyonu sistemi.resources.dll
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.csproj.CopyComplete
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.exe
+C:\Users\eyup5\OneDrive\Masaüstü\market otomasyonu sistemi\market otomasyonu sistemi\obj\Debug\market otomasyonu sistemi.pdb
